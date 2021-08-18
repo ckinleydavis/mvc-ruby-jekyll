@@ -1,4 +1,4 @@
-# About Our Jekyll Project
+# About Our Ruby:Jekyll:MVC Project
 
 This project has been developed using NodeJS, Yarn, Ruby on Rails, SQLite3, and Jekyll. It is being freely hosted using GitHub Pages. The repository for this project may be found [here](https://github.com/ckinleydavis/jekyll).
 
